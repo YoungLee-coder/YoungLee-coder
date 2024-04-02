@@ -17,7 +17,6 @@ I'm a front-end developer from China.
 
 ### Get in touch
 
-- Twitter:[YoungLee](https://twitter.com/Xer2QDybDndEkxc)
 - Personal site: [younglee's blog](https://younglee.cn)
 
 ``
