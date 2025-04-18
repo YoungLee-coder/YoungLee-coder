@@ -1,3 +1,23 @@
+### 嗨，你好 👋
+
+嗨，我叫**YoungLee** 
+
+我是一名来自中国的大学生。 
+
+### 我的开源项目 
+
+- [Mooc-CDCAS](https://github.com/YoungLee-coder/Mooc-CDCAS)
+- [TomatoTime](https://github.com/YoungLee-coder/TomatoTime)
+- [Calculator](https://github.com/YoungLee-coder/Calculator)
+
+### 保持交流
+
+YoungLee的手帐： [YoungLee's Blog](https://younglee.cn)
+
+------
+
+
+
 ### Hi there 👋
 
 <!--
@@ -6,14 +26,13 @@
 
 Hi, my name is **YoungLee**
 
-I'm a front-end developer from China.
+I am a college student from China.
 
 ### My open-source projects
 
 - [Mooc-CDCAS](https://github.com/YoungLee-coder/Mooc-CDCAS)
 - [TomatoTime](https://github.com/YoungLee-coder/TomatoTime)
 - [Calculator](https://github.com/YoungLee-coder/Calculator)
-  
 
 
 ### Get in touch
