@@ -18,6 +18,6 @@ I'm a front-end developer from China.
 
 ### Get in touch
 
-- Personal site: [younglee's blog](https://younglee.cn)
+- Personal site: [YoungLee's Blog](https://younglee.cn)
 
 ``
