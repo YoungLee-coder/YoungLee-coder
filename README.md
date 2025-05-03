@@ -2,16 +2,16 @@
 
 嗨，我叫**YoungLee** 
 
-我是一名来自中国的大学生。 
+🎓我是一名来自中国的大学生。 
 
-### 我的开源项目 
+### 🌱我的开源项目 
 
 - [Mooc-CDCAS](https://github.com/YoungLee-coder/Mooc-CDCAS)
 - [TomatoTime](https://github.com/YoungLee-coder/TomatoTime)
 - [Calculator](https://github.com/YoungLee-coder/Calculator)
 - [DouBan-API-Service](https://github.com/YoungLee-coder/DouBan-API-Service)
 
-### 保持交流
+### 🔭保持交流
 
 YoungLee的手帐： [YoungLee's Blog](https://younglee.cn)
 
@@ -27,9 +27,9 @@ YoungLee的手帐： [YoungLee's Blog](https://younglee.cn)
 
 Hi, my name is **YoungLee**
 
-I am a college student from China.
+🎓I am a college student from China.
 
-### My open-source projects
+### 🌱My open-source projects
 
 - [Mooc-CDCAS](https://github.com/YoungLee-coder/Mooc-CDCAS)
 - [TomatoTime](https://github.com/YoungLee-coder/TomatoTime)
@@ -37,8 +37,9 @@ I am a college student from China.
 - [DouBan-API-Service](https://github.com/YoungLee-coder/DouBan-API-Service)
 
 
-### Get in touch
+### 🔭Get in touch
 
-- Personal site: [YoungLee's Blog](https://younglee.cn)
+ Personal site: [YoungLee's Blog](https://younglee.cn)
 
-``
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLee-coder&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
