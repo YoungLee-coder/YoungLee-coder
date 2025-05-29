@@ -13,6 +13,7 @@
 - [Calculator](https://github.com/YoungLee-coder/Calculator)
 - [DouBan-API-Service](https://github.com/YoungLee-coder/DouBan-API-Service)
 - [Your-GitHub-Info](https://github.com/YoungLee-coder/Your-GitHub-Info)
+- [GoodSticks](https://github.com/YoungLee-coder/GoodSticks)
 
 ### 🔭保持交流
 
@@ -39,7 +40,7 @@ Hi, my name is **YoungLee**
 - [Calculator](https://github.com/YoungLee-coder/Calculator)
 - [DouBan-API-Service](https://github.com/YoungLee-coder/DouBan-API-Service)
 - [Your-GitHub-Info](https://github.com/YoungLee-coder/Your-GitHub-Info)
-
+- [GoodSticks](https://github.com/YoungLee-coder/GoodSticks)
 ### 🔭Get in touch
 
  Personal site: [YoungLee's Blog](https://younglee.cn)
