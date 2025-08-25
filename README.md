@@ -1,4 +1,11 @@
-<h2 align="left">Hi! There is YoungLee! 👋</h2>
+<p align="center">
+  <img 
+    src="https://github.com/YoungLee-coder/YoungLee-coder/blob/main/Hi.png" 
+    alt="Hi" 
+    style="border-radius: 50%;"
+  />
+</p>
+
 <p align="center">
   <strong><a href="https://younglee.cn">Blog</a></strong> |
   <strong><a href="mailto:youngleepost@163.com">Email</a></strong> |
