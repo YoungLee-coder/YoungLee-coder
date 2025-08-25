@@ -1,17 +1,4 @@
-<div style="display:flex; align-items:center; justify-content:space-between; gap:1rem; flex-wrap:wrap; width:100%;">
-  <img
-    src="https://raw.githubusercontent.com/YoungLee-coder/YoungLee-coder/main/cloud.jpg"
-    alt="莫比乌斯月刊 Vol.1"
-    style="width:55%; max-width:450px; height:auto; display:block; border-radius:8px;"
-  />
-
-  <div style="flex:1; min-width:200px; text-align:right;">
-    <h2 style="margin:0 0 0.4rem 0; font-size:1.5rem;">Hi! There is YoungLee! 👋</h2>
-  </div>
-</div>
-
-
-
+<h2 align="left">Hi! There is YoungLee! 👋</h2>
 <p align="center">
   <strong><a href="https://younglee.cn">Blog</a></strong> |
   <strong><a href="mailto:youngleepost@163.com">Email</a></strong> |
