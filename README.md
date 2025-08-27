@@ -6,8 +6,8 @@
   />
 </p>
 
-<p align="center">
-  <strong><a href="https://younglee.cn">Blog</a></strong> |
+<p align="center">Links:&nbsp
+  <strong><a href="https://younglee.cn">BlogSite</a></strong> |
   <strong><a href="mailto:youngleepost@163.com">Email</a></strong> |
   <strong><a href="https://steamcommunity.com/id/itsyounglee/">Play</a></strong>
 </p>
