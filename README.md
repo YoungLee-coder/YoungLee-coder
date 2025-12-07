@@ -25,4 +25,4 @@
 
 ### Other Data 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungLee-coder&layout=compact" alt="Wakatime stats" height="170px" /> <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=YoungLee-coder&count_private=true&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="170px" />
+<img src="https://younglee-readme.vercel.app/api/top-langs/?username=YoungLee-coder&layout=compact" alt="Wakatime stats" height="170px" /> <img src="https://younglee-readme.vercel.app/api?username=YoungLee-coder&count_private=true&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="170px" />
